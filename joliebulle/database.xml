@@ -2852,6 +2852,405 @@
     <COLOR>2.0</COLOR>
     <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
   </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Pilsen 2RP</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>81</YIELD>
+      <COLOR>1.9</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Pilsen 6RH</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>1.8</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château 2RH</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>1.8</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Tourbé</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>2.1</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Diastasique</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>2.0</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Froment Blanc</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>83</YIELD>
+      <COLOR>5.5</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Vienna</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>3.2</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Pale Ale</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>81</YIELD>
+      <COLOR>4.3</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Froment Munich Light</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>84</YIELD>
+      <COLOR>6.1</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Munich Light</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>6.15</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Cara Clair</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>78</YIELD>
+      <COLOR>3.2</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Froment Munich 25</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>83</YIELD>
+      <COLOR>9.75</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Cara Blond</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>78</YIELD>
+      <COLOR>8.25</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Munich</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>9.75</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Melano Light</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>79</YIELD>
+      <COLOR>15.6</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Abbaye</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>78</YIELD>
+      <COLOR>17.4</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Cara Ruby</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>78</YIELD>
+      <COLOR>19.3</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Biscuit</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>77</YIELD>
+      <COLOR>19.3</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Melano</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>78</YIELD>
+      <COLOR>30.55</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Arôme</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>78</YIELD>
+      <COLOR>37.9</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Cara Gold</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>78</YIELD>
+      <COLOR>45.55</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Crystal</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>78</YIELD>
+      <COLOR>56.8</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Café Light</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>77</YIELD>
+      <COLOR>94.35</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Spécial B</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>77</YIELD>
+      <COLOR>109.35</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Café</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>75.5</YIELD>
+      <COLOR>176.85</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Chocolat</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>75</YIELD>
+      <COLOR>338.1</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Black</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>73</YIELD>
+      <COLOR>497.45</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Roasted Barley</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>65</YIELD>
+      <COLOR>431.85</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Black Of Black</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>72</YIELD>
+      <COLOR>188.1</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Acide</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>74</YIELD>
+      <COLOR>3.95</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Buckwheat</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>65.3</YIELD>
+      <COLOR>4.15</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Oat</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>59</YIELD>
+      <COLOR>2.6</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Rye</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>81</YIELD>
+      <COLOR>3.2</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Smoked</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>2.1</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château </NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>79</YIELD>
+      <COLOR>2.45</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Pilsen Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>1.9</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Tourbé Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>2.1</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Vienna Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>2.65</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Cara Wheat Blond Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>68</YIELD>
+      <COLOR>6.2</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Wheat Blanc Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>83</YIELD>
+      <COLOR>2.15</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Pale Ale Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>3.75</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Munich Light Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>6.15</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Munich Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>80</YIELD>
+      <COLOR>9.75</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Abbaye Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>78</YIELD>
+      <COLOR>17.4</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Biscuit Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>77</YIELD>
+      <COLOR>19.3</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Cara Blond Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>78</YIELD>
+      <COLOR>8.25</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Cara Ruby</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>76</YIELD>
+      <COLOR>19.3</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Cara Gold Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>74</YIELD>
+      <COLOR>45.55</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Crystal Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>78</YIELD>
+      <COLOR>56.8</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Special B Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>76</YIELD>
+      <COLOR>109.35</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Chocolat Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>75</YIELD>
+      <COLOR>338.1</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Black Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>73</YIELD>
+      <COLOR>497.45</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Acide Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>74</YIELD>
+      <COLOR>3.95</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Buckwheat Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>65</YIELD>
+      <COLOR>4.15</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Rye Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>81</YIELD>
+      <COLOR>3.2</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Smoked Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>77</YIELD>
+      <COLOR>3.6</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
+  <FERMENTABLE>
+      <NAME>Château Spelt Nature</NAME>
+      <TYPE>Grain</TYPE>
+      <YIELD>79</YIELD>
+      <COLOR>2.45</COLOR>
+      <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+  </FERMENTABLE>
   <MISC>
     <NAME>Carbonate de Calcium</NAME>
     <VERSION>1</VERSION>
